@@ -1,11 +1,9 @@
-import './App.css';
-
+import ContainerGeneral from './containers/ContainerGeneral'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hola :D</h1>
-      </header>
+
+        <ContainerGeneral/>
     </div>
   );
 }

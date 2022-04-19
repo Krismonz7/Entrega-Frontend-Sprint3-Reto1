@@ -1,10 +1,10 @@
-import React from 'react'
-
-export class Navbar {
+import React, { Component } from 'react'
+import '../Nav-bar/stylesNav.css'
+export default class Navbar extends Component{
 
     render(){
   return (
-    <div>Navbar</div>
+    <div className='navbar'>Navbar :D</div>
   )
     }
 }

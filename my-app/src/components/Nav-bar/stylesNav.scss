@@ -1,0 +1,8 @@
+$color-principal: hsl(217, 28%, 15%) ;
+.navbar{
+    border: 2px solid cyan;
+    display: flex;
+    background: $color-principal;
+    color: white;
+
+} 

@@ -1,0 +1,8 @@
+.navbar {
+  border: 2px solid cyan;
+  display: flex;
+  background: hsl(217deg, 28%, 15%);
+  color: white;
+}
+
+/*# sourceMappingURL=stylesNav.css.map */
